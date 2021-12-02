@@ -42,7 +42,7 @@ namespace Psim
 			tEq = (highTemp + lowTemp) / 2;
 		}
 
-		public void RunSimulation()
+		public void RunSimulation(string v)
 		{
 			Console.WriteLine("Run Simulation has not been implemented!");
 		}
